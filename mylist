@@ -102,7 +102,7 @@
 {
 "name"              :     "Movie 2022",
 "image"             :     "https://i.imgur.com/YlGmyCj.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/old22",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/old_2022",
 "import": false
 }, 
 
@@ -135,9 +135,16 @@
 },
 
 {
-"name"              :     "FreeTVdd",
+"name"              :     "FreeTVdd CH",
 "image"             :     "https://freetvdd.com/wp-content/uploads/2020/02/logo-freetvdd.com_.png",
 "url"               :     "https://pastebin.com/raw/RjegpBuR",
+"import": false
+},
+
+{
+"name"              :     "𝕄𝕠𝕠𝕊𝕖𝕧𝕖ℕ CH",
+"image"             :     "https://sv1.picz.in.th/images/2023/07/25/MP7sxE.png",
+"url"               :     "https://bit.ly/MixWisePlay02",
 "import": false
 },
 
