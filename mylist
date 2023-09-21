@@ -100,8 +100,8 @@
 }, 
 
 {
-"name"              :     "Movie 2022",
-"image"             :     "https://i.imgur.com/YlGmyCj.jpg",
+"name"              :     "Movie Extra",
+"image"             :     "https://i.imgur.com/XsMDak4.png",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/old_2022",
 "import": false
 }, 
