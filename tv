@@ -26,11 +26,18 @@
 },
 
 {
-"name"              :     "TV Digital สำรอง 3",
+"name"              :     "TV Digital - poid",
 "image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
 "url"               :     "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV2.m3u",
 "import": false
-}
+},
+
+{
+"name"              :     "TV Digital - watch.tv",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/tv_watch",
+"import": false
+},
 
 ]
 }
