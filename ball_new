@@ -334,7 +334,6 @@
 "info" :	"540P ballhd24"
 },
 
-
 {
 "name": "beIN SPORT 2",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
@@ -348,20 +347,20 @@
 
  {
 "name": "beIN SPORT 2",
-"info": "720p dooball66s 0",
+"info": "480p lineballsod",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein2&api_key=hmcb4rf66f",
+"url": "https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/beinsporthd2_480p/playlist.m3u8",
 "referer": "https://dooball66s.com/"
  },
 
 {
 "name": "beIN SPORT 2",
-"info": "720p dooball66s x",
+"info": "480p livestream88",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein2x&api_key=hmcb4rf66f",
-"referer": "https://dooball66s.com/"
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein2/playlist.m3u8",
+"referer": "https://www.livestream88.com/"
  },
 
 {
@@ -372,6 +371,7 @@
 "url": "https://www.warpfootball.games/live/?ch=bein2",
 "referer": "https://www.warpfootball.games/"
  },
+
 
 
 
