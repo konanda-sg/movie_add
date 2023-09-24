@@ -47,7 +47,7 @@
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info": "warpfootball",
 "url": "https://www.warpfootball.games/live/?ch=epl1",
-"referer": "https://www.warpfootball.games/",
+"referer": "https://www.warpfootball.games/"
  },
 
 
@@ -100,7 +100,7 @@
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info": "warpfootball",
 "url": "https://www.warpfootball.games/live/?ch=epl2",
-"referer": "https://www.warpfootball.games/",
+"referer": "https://www.warpfootball.games/"
  },
 
 
@@ -153,7 +153,7 @@
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info": "warpfootball",
 "url": "https://www.warpfootball.games/live/?ch=epl3",
-"referer": "https://www.warpfootball.games/",
+"referer": "https://www.warpfootball.games/"
  },
 
 
@@ -207,7 +207,7 @@
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info": "warpfootball",
 "url": "https://www.warpfootball.games/live/?ch=epl4",
-"referer": "https://www.warpfootball.games/",
+"referer": "https://www.warpfootball.games/"
  },
 
 
@@ -268,7 +268,7 @@
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info": "warpfootball",
 "url": "https://www.warpfootball.games/live/?ch=epl5",
-"referer": "https://www.warpfootball.games/",
+"referer": "https://www.warpfootball.games/"
  },
 
 
@@ -316,7 +316,7 @@
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info": "warpfootball",
 "url": "https://www.warpfootball.games/live/?ch=bein1",
-"referer": "https://www.warpfootball.games/",
+"referer": "https://www.warpfootball.games/"
  },
 
 
@@ -348,7 +348,7 @@
 "name": "beIN SPORT 2",
 "info": "720p dooball66s 0",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein2&api_key=hmcb4rf66f&token=MTY5NTU1NjYzMXwxZjc3ZGI0MGIwZTk5MjIwNzcxMWFmNzVjMmZiN2Q4OQ==",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein2&api_key=hmcb4rf66f&token=",
 "referer": "https://dooball66s.com/"
  },
 
@@ -365,7 +365,7 @@
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
 "info": "warpfootball",
 "url": "https://www.warpfootball.games/live/?ch=bein2",
-"referer": "https://www.warpfootball.games/",
+"referer": "https://www.warpfootball.games/"
  },
 
 
@@ -410,7 +410,7 @@
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info": "warpfootball",
 "url": "https://www.warpfootball.games/live/?ch=bein3",
-"referer": "https://www.warpfootball.games/",
+"referer": "https://www.warpfootball.games/"
  },
 ]
 }
