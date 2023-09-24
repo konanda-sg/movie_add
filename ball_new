@@ -350,17 +350,10 @@
 "info": "480p lineballsod",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"url": "https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/beinsporthd2_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIzIDExOjQ5OjM5IEFNJmhhc2hfdmFsdWU9TGl5ZnllWGdWdlhVME5jSXZ5OFpCQT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI4JmlkPTE3OTQ3NQ==",
+"url": "https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/beinsporthd2_480p/playlist.m3u8",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
 "referer": "https://www.lineballsod.com/"
- },
-
- {
-"name": "beIN SPORT 2",
-"info": "480p liveballsod",
-"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"url": "https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/beinsporthd2_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIzIDExOjQ5OjM2IEFNJmhhc2hfdmFsdWU9d2dpTWNGQnRLVDNjaXFlV1BWS0NVUT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI4JmlkPTc1NDk4MA==",
-"referer": "https://www.liveballsod.com/tv-online/ch027a/"
  },
 
 {
