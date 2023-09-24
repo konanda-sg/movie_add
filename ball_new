@@ -56,7 +56,14 @@
 {
 "name": "Premier HD 2",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
-"url" :	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-2/playlist.m3u8",
+"url" : 	"https://media.wacthstream.com/dvr/602_eng2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDIzIDM6NDM6MDggQU0maGFzaF92YWx1ZT1lTEQwOE5xK2hJSzZIRzNaUnMyWUNBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODIwOTE=",
+"info" : 	"wacth.tv 1080P",
+"referer"		: 	"https://wacth.tv/"
+ },
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"url" :	"https://live.vip-streaming.com/dooball123.com/true-premier-hd-2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIzIDY6Mzg6MjMgQU0maGFzaF92YWx1ZT1GNVpDd3d1MnFtblJubFJITCtwYWFRPT0mdmFsaWRtaW51dGVzPTYw",
 "referer"		:	"https://dooball123.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info" : 	"dooball123 540P", 
@@ -70,13 +77,6 @@
 "info" : 	"livescorethai 720P", 
 "referer"		: 	"https://freetvdd.com/"
 },
-{
-"name": "Premier HD 2",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
-"url" : 	"https://media.wacthstream.com/dvr/602_eng2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDIzIDM6NDM6MDggQU0maGFzaF92YWx1ZT1lTEQwOE5xK2hJSzZIRzNaUnMyWUNBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODIwOTE=",
-"info" : 	"wacth.tv 1080P",
-"referer"		: 	"https://wacth.tv/"
- },
 {
 "name": "Premier HD 2",
 "info": "freetvdd",
@@ -109,7 +109,7 @@
 {
 "name": "Premier HD 3",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
-"url" :	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-3/playlist.m3u8",
+"url" :	"https://live.vip-streaming.com/dooball123.com/true-premier-hd-3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIzIDY6Mzg6MjMgQU0maGFzaF92YWx1ZT1GNVpDd3d1MnFtblJubFJITCtwYWFRPT0mdmFsaWRtaW51dGVzPTYw",
 "referer"		:	"https://dooball123.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info" : 	"dooball123 540P", 
@@ -163,7 +163,7 @@
  {
 "name": "Premier HD 4",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
-"url" :	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-4/playlist.m3u8",
+"url" :	"https://live.vip-streaming.com/dooball123.com/true-premier-hd-4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIzIDY6Mzg6MjMgQU0maGFzaF92YWx1ZT1GNVpDd3d1MnFtblJubFJITCtwYWFRPT0mdmFsaWRtaW51dGVzPTYw",
 "referer"		:	"https://dooball123.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info" : 	"dooball123 540P", 
@@ -230,7 +230,7 @@
  {
 "name": "Premier HD 5",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
-"url" :	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-5/playlist.m3u8",
+"url" :	"https://live.vip-streaming.com/dooball123.com/true-premier-hd-5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIzIDY6Mzg6MjMgQU0maGFzaF92YWx1ZT1GNVpDd3d1MnFtblJubFJITCtwYWFRPT0mdmFsaWRtaW51dGVzPTYw",
 "referer"		:	"https://dooball123.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info" : 	"dooball123 540P", 
