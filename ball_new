@@ -54,10 +54,21 @@
 "name": "Premier HD 1",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "540p livestream88",
+"info": "720p livestream88",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf1/playlist.m3u8",
 "referer": "https://www.livestream88.com/true-premier-football-hd-1/"
  },
+{
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ballhd24.live",
+"url": "https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl1_480p/chunks.m3u8",
+"referer": "https://www.ballhd24.live/"
+ },
+
+
+
 
 
 
@@ -122,6 +133,19 @@
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf2/playlist.m3u8",
 "referer": "https://www.livestream88.com/true-premier-football-hd-2/"
  },
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ballhd24.live",
+"url": "https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl2_480p/chunks.m3u8",
+"referer": "https://www.ballhd24.live/"
+ },
+
+
+
+
+
 
 
 
@@ -183,10 +207,23 @@
 "name": "Premier HD 3",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "540p livestream88",
+"info": "720p livestream88",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf3/playlist.m3u8",
 "referer": "https://www.livestream88.com/true-premier-football-hd-3/"
  },
+{
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ballhd24.live",
+"url": "https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl3_480p/chunks.m3u8",
+"referer": "https://www.ballhd24.live/"
+ },
+
+
+
+
+
 
 
 
@@ -252,6 +289,17 @@
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf4/playlist.m3u8",
 "referer": "https://www.livestream88.com/true-premier-football-hd-4/"
  },
+{
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ballhd24.live",
+"url": "https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl4_480p/chunks.m3u8",
+"referer": "https://www.ballhd24.live/"
+ },
+
+
+
 
 
 
@@ -324,6 +372,18 @@
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf5/playlist.m3u8",
 "referer": "https://www.livestream88.com/true-premier-football-hd-5/"
  },
+{
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ballhd24.live",
+"url": "https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl5_480p/chunks.m3u8",
+"referer": "https://www.ballhd24.live/"
+ },
+
+
+
+
 
 
 
@@ -379,11 +439,18 @@
 "name": "beIN SPORT 1",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "480p livestream88",
+"info": "720p livestream88",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein1/playlist.m3u8",
 "referer": "https://www.livestream88.com/bein-sport-hd-1/"
  },
-
+{
+"name": "beIN SPORT 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ballhd24.live",
+"url": "https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsport1_480p/chunks.m3u8",
+"referer": "https://www.ballhd24.live/"
+ },
 
 
 
@@ -399,7 +466,7 @@
 "userAgent"		: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "referer"		: 	"",
 "ibm" : 	"m3u8",
-"info" :	"540P ballhd24"
+"info": "480p ballhd24.live",
 },
 
 {
@@ -415,7 +482,7 @@
 
 {
 "name": "beIN SPORT 2",
-"info": "480p livestream88",
+"info": "720p livestream88",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein2/playlist.m3u8",
@@ -482,11 +549,18 @@
 "name": "beIN SPORT 3",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "480p livestream88",
+"info": "720p livestream88",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein3/playlist.m3u8",
 "referer": "https://www.livestream88.com/"
  },
-
+{
+"name": "beIN SPORT 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ballhd24.live",
+"url": "https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsporthd3_480p/chunks.m3u8",
+"referer": "https://www.ballhd24.live/"
+ },
 
 
 
