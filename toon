@@ -3,7 +3,12 @@
 "image"             :     "https://i.pinimg.com/736x/00/d2/7c/00d27c9fbb16ce52114a1e8003fc6226.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
 "groups": [
-
+{
+"name"              :     "Cang Yuan Tu นักล่าอสูรกาย",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/136462l.jpg?w=338&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/นักล่าอสูรกาย",
+"import": false
+},
 {
 "name"              :     "Kengan Ashura 2nd Season กำปั้นอสูร โทคิตะ ภาค 2",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-3.jpg?w=495&ssl=1",
