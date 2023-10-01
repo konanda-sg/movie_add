@@ -79,7 +79,7 @@
 }, 
 
 {
-"name"              :     "Movie 2023",
+"name"              :     "Movie",
 "image"             :     "https://i.imgur.com/vcZm6hA.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
 "import": false
