@@ -11,11 +11,24 @@
 "import": false
 },
 {
+"name"              :     "พลิกฟ้าท้าสวรรค์",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/Untitled333.png?w=649&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/พลิกฟ้าท้าสวรรค์",
+"import": false
+},
+{
 "name"              :     "Cang Yuan Tu นักล่าอสูรกาย",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/136462l.jpg?w=338&ssl=1",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/นักล่าอสูรกาย",
 "import": false
 },
+{
+"name"              :     "ฝืนลิขิตฟ้าข้าขอเป็นเป็นเซียน",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ฝืนลิขิตฟ้าข้าขอเป็นเป็นเซียน",
+"import": false
+},
+
 {
 "name"              :     "Kengan Ashura 2nd Season กำปั้นอสูร โทคิตะ ภาค 2",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-3.jpg?w=495&ssl=1",
@@ -118,14 +131,6 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/trans5",
 "import": false
 },
-
-{
-"name"              :     "ฝืนลิขิตฟ้าข้าขอเป็นเป็นเซียน",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ฝืนลิขิตฟ้าข้าขอเป็นเป็นเซียน",
-"import": false
-},
-
 
 ]
 }
