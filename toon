@@ -3,6 +3,13 @@
 "image"             :     "https://i.pinimg.com/736x/00/d2/7c/00d27c9fbb16ce52114a1e8003fc6226.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
 "groups": [
+
+{
+"name"              :     "มหาศึกล้างพิภพ ภาค 4",
+"image"             :     "hhttps://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/138218l.jpg?w=428&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/มหาศึกล้างพิภพ4",
+"import": false
+},
 {
 "name"              :     "Cang Yuan Tu นักล่าอสูรกาย",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/136462l.jpg?w=338&ssl=1",
