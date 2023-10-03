@@ -131,7 +131,7 @@
 "name"              :     "IPTV Thailand CH",
 "image"             :     "https://play-lh.googleusercontent.com/3Fgx4Y0JD9dTBY_wtMk19ITYlM3ODvCm3wZxNC2yomUr1lLnpjXv71EtCYz7lKSv1euU",
 "url"               :     "http://207.148.120.199:8088/m3u/playlist.m3u",
-"import": false
+"import": true
 },
 
 
