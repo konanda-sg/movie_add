@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2023093002500496I4OKRZICinYFCAvOnXznaCQcm.jpg" ,4
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/jjTysXLh14/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2023093002500496I4OKRZICinYFCAvOnXznaCQcm.jpg" ,3
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/i7DP5pS6Jr/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2023093002500496I4OKRZICinYFCAvOnXznaCQcm.jpg" ,2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/Zcq4eusX4W/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2023093002500496I4OKRZICinYFCAvOnXznaCQcm.jpg" ,1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://anime-indy.com/
+https://indy.team-indy.tech:8443/vid/PECXqxwVv8/video.mp4/playlist.m3u8
