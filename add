@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2023093002500496I4OKRZICinYFCAvOnXznaCQcm.jpg" ,Street Flow 2 (Banlieusards 2) ทางแยก 2 (2023) NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fw4free.com/view.php?id=182125
+https://m1free.inwstream.com:1936/movie3/Street_Flow_2_2023/Street_Flow_2_2023_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230930024656rhOFpiEDA9S2rmuz5990KBjLgcP.jpg" ,Street Flow (Banlieusards) ทางแยก (2019) NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fw4free.com/view.php?id=83462
+https://m1free.inwstream.com:1936/movie3/Street_Flow_2019/Street_Flow_2019_th_1080.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230830184958dwqdqw.jpg" ,Simulant โลกร่างเสมือน (2023)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/view.php?id=178800
