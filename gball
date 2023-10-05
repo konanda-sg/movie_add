@@ -25,10 +25,10 @@
 },
 {
 "name": "Premier HD 1",
-"info": "480p youdooball",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"url": "https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
-"referer": "https://www.youdooball.com/479a57ba-e840-4c05-a503-102c0f407df5"
+"info": "720p youdooball",
+"url": "https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"
  },
 {
 "name": "Premier HD 1",
@@ -122,6 +122,13 @@
 {
 "name": "Premier HD 2",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"info": "720p youdooball",
+"url": "https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"
+ },
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
 "url"   		: 	"https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8",
 "info" : 	"livescorethai 720P", 
 "referer"		: 	"https://freetvdd.com/"
@@ -208,6 +215,13 @@
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
 },
+{
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"info": "720p youdooball",
+"url": "https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"
+ },
 {
 "name": "Premier HD 3",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
@@ -306,6 +320,13 @@
 {
 "name": "Premier HD 4",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"info": "720p youdooball",
+"url": "https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"
+ },
+{
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
 "url" : 	"https://media.wacthstream.com/dvr/604_eng4/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDIzIDM6NDM6NTggQU0maGFzaF92YWx1ZT1FcjRXbld2UUdhbG9rSDZZc01XV0F3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgwNzg=",
 "info"		: 	"wacth.tv 720P", 
 "referer"		: 	"https://wacth.tv/"
@@ -391,6 +412,13 @@
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
 },
+{
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"info": "720p youdooball",
+"url": "https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"
+ },
 {
 "name": "Premier HD 5",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
