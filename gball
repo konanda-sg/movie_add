@@ -104,6 +104,14 @@
 "info": "480p ballnaja",
      "referer": "https://www.ballnaja.com/television/"
     },
+  {
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "480p aisplay24hd ดูได้แค่วันเวลาที่มีถ่ายทอดช่องนี้",
+"url": "https://cdn1.aws-live-streaming.com/ais/tpf1/playlist.m3u8",
+"referer": "https://www.aisplay24hd.com/"
+  },
          ]
       },
       { 
@@ -215,6 +223,14 @@
 "info": "480p ballnaja",
      "referer": "https://www.ballnaja.com/television/"
     },
+  {
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "480p aisplay24hd ดูได้แค่วันเวลาที่มีถ่ายทอดช่องนี้",
+"url": "https://cdn1.aws-live-streaming.com/ais/tpf2/playlist.m3u8",
+"referer": "https://www.aisplay24hd.com/"
+  },
          ]
       },
       { 
@@ -318,6 +334,14 @@
 "info": "480p ballnaja",
      "referer": "https://www.ballnaja.com/television/"
     },
+  {
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "480p aisplay24hd ดูได้แค่วันเวลาที่มีถ่ายทอดช่องนี้",
+"url": "https://cdn1.aws-live-streaming.com/ais/tpf3/playlist.m3u8",
+"referer": "https://www.aisplay24hd.com/"
+  },
          ]
       },
       { 
@@ -421,6 +445,14 @@
 "info": "480p ballnaja",
      "referer": "https://www.ballnaja.com/television/"
     },
+  {
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "480p aisplay24hd ดูได้แค่วันเวลาที่มีถ่ายทอดช่องนี้",
+"url": "https://cdn1.aws-live-streaming.com/ais/tpf4/playlist.m3u8",
+"referer": "https://www.aisplay24hd.com/"
+  },
          ]
       },
       { 
@@ -525,6 +557,14 @@
 "info": "480p ballnaja",
      "referer": "https://www.ballnaja.com/television/"
     },
+  {
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "480p aisplay24hd ดูได้แค่วันเวลาที่มีถ่ายทอดช่องนี้",
+"url": "https://cdn1.aws-live-streaming.com/ais/tpf5/playlist.m3u8",
+"referer": "https://www.aisplay24hd.com/"
+  },
 
          ]
       },
