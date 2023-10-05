@@ -1,5 +1,5 @@
 {
-   "name": "TV Digital",
+   "name": "TV Digital - inwiptv",
    "image": "https://www.i-pic.info/i/1DJq365480.jpg",
    "url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/inwiptv",
    "stations": [
@@ -94,5 +94,6 @@ image:"https://i.imgur.com/i4t7Q0C.png",
      "url": "https://www.inwiptv.com/player_demo.php?channel=27129",
 "userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
      "referer": "https://www.inwiptv.com/"
-    },
-{
+    }
+]
+}
