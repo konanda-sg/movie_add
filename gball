@@ -91,8 +91,8 @@
 {
 "name": "Premier HD 1",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "720p laotv",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "1080p laotv",
 "url": "https://ctrl.laotv.la/live/TSport1/index.m3u8",
 "referer": "https://laotv.la/"
  },
@@ -187,8 +187,8 @@
 {
 "name": "Premier HD 2",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "720p laotv",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "1080p laotv",
 "url": "https://ctrl.laotv.la/live/TSport2/index.m3u8",
 "referer": "https://laotv.la/"
  },
