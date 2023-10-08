@@ -122,6 +122,15 @@
 "url": "https://cdn1.aws-live-streaming.com/ais/tpf1_480/playlist.m3u8",
 "referer": "https://www.aisplay24hd.com/"
   },
+{
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p ufabetcompany nosign",
+"referer": "https://ufabetcompany.net/",
+"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-1/playlist.m3u8"
+},
+
          ]
       },
       { 
@@ -241,6 +250,15 @@
 "url": "https://cdn1.aws-live-streaming.com/ais/tpf2_480/chunks.m3u8",
 "referer": "https://www.aisplay24hd.com/"
   },
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p ufabetcompany nosign",
+"referer": "https://ufabetcompany.net/",
+"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-2/playlist.m3u8"
+},
+
          ]
       },
       { 
@@ -352,6 +370,14 @@
 "url": "https://cdn1.aws-live-streaming.com/ais/tpf3/playlist.m3u8",
 "referer": "https://www.aisplay24hd.com/"
   },
+{
+"name": "Premier HD 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p ufabetcompany nosign",
+"referer": "https://ufabetcompany.net/",
+"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-3/playlist.m3u8"
+},
          ]
       },
       { 
@@ -463,6 +489,15 @@
 "url": "https://cdn1.aws-live-streaming.com/ais/tpf4/playlist.m3u8",
 "referer": "https://www.aisplay24hd.com/"
   },
+{
+"name": "Premier HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p ufabetcompany nosign",
+"referer": "https://ufabetcompany.net/",
+"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-4/playlist.m3u8"
+},
+
          ]
       },
       { 
@@ -575,6 +610,16 @@
 "url": "https://cdn1.aws-live-streaming.com/ais/tpf5/playlist.m3u8",
 "referer": "https://www.aisplay24hd.com/"
   },
+{
+"name": "Premier HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p ufabetcompany nosign",
+"referer": "https://ufabetcompany.net/",
+"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-5/playlist.m3u8"
+},
+
+
 
          ]
       },
@@ -681,6 +726,14 @@
 "info" : 	"dooball123 540P", 
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
+},
+{
+"name": "beIN SPORT 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p ufabetcompany nosign",
+"referer": "https://ufabetcompany.net/",
+"url": "https://live.vip-streaming.com/ufabetcompany-live/bein-sport-1-th/playlist.m3u8"
 },
 
 
@@ -835,9 +888,14 @@
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
 },
-
-
-
+{
+"name": "beIN SPORT 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "540p ufabetcompany nosign",
+"referer": "https://ufabetcompany.net/",
+"url": "https://live.vip-streaming.com/ufabetcompany-live/bein-sport-3-th/playlist.m3u8"
+},
          ]
       },
    ]
