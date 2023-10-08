@@ -32,6 +32,16 @@
  },
 {
 "name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"url" :	"https://live.vip-streaming.com/dooball123.com/true-premier-hd-1/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info" : 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name": "Premier HD 1",
 "info": "freetvdd",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
 "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8",
