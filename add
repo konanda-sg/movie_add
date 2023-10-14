@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/Expend4bles-2023.jpg" ,EXPEND4BLES (2023) โคตรคนทีมมหากาฬ 4
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://streamhls.com/view/8cf62a8c-de9a-5a6e-be35-a3d41c89f639.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/10/The-Conference-2023.jpg" ,สัมมานาเลือด
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -112,10 +116,6 @@ https://hlsp2p.com/view/4fbc149a-1f93-52c8-b244-a93674164073.m3u8
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
 https://hlsp2p.com/view/1bfcaeee-92ed-5ce4-ae54-c42fe2f8085b.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/Expend4bles-2023.jpg" ,EXPEND4BLES (2023) โคตรคนทีมมหากาฬ 4
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://hlsp2p.com/view/240b19c5-ef14-5e9b-aeb2-5b8399f902f2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem-2023.jpg" ,TEENAGE MUTANT NINJA TURTLES MUTANT MAYHEM (2023) เต่านินจา โกลาหลกลายพันธุ์
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
