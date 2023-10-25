@@ -1,12 +1,12 @@
 {
-   "name": "TV Digital",
+   "name": "Tv_ufabetcompany",
    "image": "https://www.i-pic.info/i/1DJq365480.jpg",
-   "url": "https://pastebin.com/raw/G19aqeYP",
+   "url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/Tv_ufabetcompany",
    "stations": [
 {
      "name": "WorkPoint",
 image:"https://i.imgur.com/oxf6BRn.png",
-     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/work-point_1080p/playlist.m3u8",
+     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/work-point_1080p/chunks.m3u8",
 "userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
      "referer": "https://ufabetcompany.net/"
     },
@@ -20,7 +20,7 @@ image:"https://i.imgur.com/9apyiI0.png",
 {
      "name": "GMM",
 image:"https://i.imgur.com/sWGT1SD.png",
-     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/gmm25_1080p/playlist.m3u8",
+     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/gmm25_1080p/chunks.m3u8",
 "userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
      "referer": "https://ufabetcompany.net/"
     },
@@ -34,14 +34,14 @@ image:"https://i.imgur.com/lHbIKfF.png",
 {
      "name": "7HD",
 image:"https://i.imgur.com/vxnLkTz.png",
-     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/ch-7_1080p/playlist.m3u8",
+     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/ch-7_1080p/chunks.m3u8",
 "userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
      "referer": "https://ufabetcompany.net/"
     },
 {
      "name": "AMARINTVHD",
 image:"https://i.imgur.com/S6gvvf9.png",
-     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/amarin_1080p/playlist.m3u8",
+     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/amarin_1080p/chunks.m3u8",
 "userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
      "referer": "https://ufabetcompany.net/"
     },
@@ -55,21 +55,21 @@ image:"https://i.imgur.com/V4VWHiB.png",
 {
      "name": "THAIRATHTVHD",
 image:"http://m3u.at/data_file/tvlogo2/32.png",
-     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/thairath_1080p/playlist.m3u8",
+     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/thairath_1080p/chunks.m3u8",
 "userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
      "referer": "https://ufabetcompany.net/"
     },
 {
      "name": "CH5",
 image:"https://i.imgur.com/4MIQNPQ.png",
-     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/ch-5_1080p/playlist.m3u8",
+     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/ch-5_1080p/chunks.m3u8",
 "userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
      "referer": "https://ufabetcompany.net/"
     },
 {
      "name": "MCOT9",
 image:"https://i.imgur.com/S4dSUQ7.png",
-     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/9mcot_1080p/playlist.m3u8",
+     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/9mcot_1080p/chunks.m3u8",
 "userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
      "referer": "https://ufabetcompany.net/"
     },
@@ -90,7 +90,7 @@ image:"https://i.imgur.com/OFsQwvv.png",
 {
      "name": "PPTV",
 image:"https://i.imgur.com/i4t7Q0C.png",
-     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/pptv_1080p/playlist.m3u8",
+     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/pptv_1080p/chunks.m3u8",
 "userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
      "referer": "https://ufabetcompany.net/"
     },
