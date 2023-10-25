@@ -31,14 +31,6 @@
 },
 
 {
-"name"              :     "Asian Games 2023 LIVE",
-"author": "ufa77!",
-"image"             :     "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/640px-2022_Asian_Games_logo.svg.png",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/seegame",
-"import": false
-},
-
-{
 "name"              :     "Acestream SPORT",
 "image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ace",
