@@ -1,0 +1,121 @@
+ {
+   "name": "ballnaja.com",
+   "image": "https://www.ballnaja.com/icons/ballnaja.webp",
+   "author": "แกะเอง นักเลงพอ",
+   "stations": [
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030140mono.png",
+"url"		      	: 	"https://m2.ballnaja.com/MONO_29/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030108mcothd.png",
+"url"		      	: 	"https://m2.ballnaja.com/MCOT_HD/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113025900onehd.png",
+"url"		      	: 	"https://m2.ballnaja.com/one_HD/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113025637thairath.png",
+"url"		      	: 	"https://m2.ballnaja.com/ThairathTV_HD/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/202201130256053hd.png",
+"url"		      	: 	"https://m2.ballnaja.com/CH3_HD/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113025543amarin.png",
+"url"		      	: 	"https://m2.ballnaja.com/AMARIN_TV_HD/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/202201130254257hd.png",
+"url"		      	: 	"https://m2.ballnaja.com/BBTV_CH_7/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113025505pptv.png",
+"url"		      	: 	"https://m2.ballnaja.com/PPTV_HD/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030822tpbs.png",
+"url"		      	: 	"https://m2.ballnaja.com/Thai_PBS/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/202201130307375hd.png",
+"url"		      	: 	"https://m2.ballnaja.com/TV5_HD1/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/nation.png",
+"url"		      	: 	"https://m2.ballnaja.com/Nation_TV/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030713tnn.png",
+"url"		      	: 	"https://m2.ballnaja.com/TNN_24/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030612workpoint.png",
+"url"		      	: 	"https://m1.ballnaja.com/workpiont/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030543true4u.png",
+"url"		      	: 	"https://m2.ballnaja.com/True4U/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030458gmm25.png",
+"url"		      	: 	"https://m2.ballnaja.com/GMM_25/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+{
+"name": "",
+"image": "https://wacth.officebk.co/uploads/tv_image/20220113030159ch8.png",
+"url"		      	: 	"https://m2.ballnaja.com/CH_8/tracks-v1a1/mono.m3u8",
+"info"			: 	"ballnaja 480P",
+"referer"		: 	"https://m2.ballnaja.com"
+},
+
+
+]
+}
