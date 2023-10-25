@@ -68,7 +68,12 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/Tv_ufabetcompany",
 "import": false
 },
-
+{
+"name"              :     "TV Digital - Ballnaja",
+"image"             :     "https://numchai.com/image/catalog/blog/Kan/01%20TV/11.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/tv_ballnaja",
+"import": false
+},
 
 
 ]
