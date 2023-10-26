@@ -132,6 +132,12 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/trans5",
 "import": false
 },
+{
+"name"              :     "บลีช เทพมรณะ สงครามเลือดพันปี",
+"image"             :     "https://anime-indy.com/wp-content/uploads/2023/09/final-5.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/bleachblood",
+"import": false
+},
 
 ]
 }
