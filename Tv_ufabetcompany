@@ -6,101 +6,48 @@
 {
      "name": "WorkPoint",
 image:"https://i.imgur.com/oxf6BRn.png",
-     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/work-point_1080p/chunks.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
-    },
-{
-     "name": "OneHD",
-image:"https://i.imgur.com/9apyiI0.png",
-          "url": "https://ctrl.laotv.la/live/OneHD/index.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
-    },
-{
-     "name": "GMM",
-image:"https://i.imgur.com/sWGT1SD.png",
-     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/gmm25_1080p/chunks.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
-    },
-{
-     "name": "3HD",
-image:"https://i.imgur.com/lHbIKfF.png",
-          "url": "https://ctrl.laotv.la/live/3HD/index.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
+     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/work-point_1080p/playlist.m3u8",
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"referer": "https://ufacompany1.com/"
     },
 {
      "name": "7HD",
 image:"https://i.imgur.com/vxnLkTz.png",
      "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/ch-7_1080p/chunks.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"referer": "https://ufacompany1.com/"
     },
 {
      "name": "AMARINTVHD",
 image:"https://i.imgur.com/S6gvvf9.png",
      "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/amarin_1080p/chunks.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
-    },
-{
-     "name": "Mono29",
-image:"https://i.imgur.com/V4VWHiB.png",
-     "url": "https://ctrl.laotv.la/live/Mono29/index.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-      "referer": "https://ufabetcompany.net/"
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"referer": "https://ufacompany1.com/"
     },
 {
      "name": "THAIRATHTVHD",
 image:"http://m3u.at/data_file/tvlogo2/32.png",
      "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/thairath_1080p/chunks.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"referer": "https://ufacompany1.com/"
     },
-{
-     "name": "CH5",
-image:"https://i.imgur.com/4MIQNPQ.png",
-     "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/ch-5_1080p/chunks.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
-    },
+
 {
      "name": "MCOT9",
 image:"https://i.imgur.com/S4dSUQ7.png",
      "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/9mcot_1080p/chunks.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"referer": "https://ufacompany1.com/"
     },
-{
-     "name": "NBT",
-image:"https://i.imgur.com/50EIb6z.png",
-     "url": "https://ctrl.laotv.la/live/NBT/index.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
-    },
-{
-     "name": "ThaiPBS",
-image:"https://i.imgur.com/OFsQwvv.png",
-     "url": "https://ctrl.laotv.la/live/ThaiPBS/index.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
-    },
+
 {
      "name": "PPTV",
 image:"https://i.imgur.com/i4t7Q0C.png",
      "url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/pptv_1080p/chunks.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"referer": "https://ufacompany1.com/"
     },
-{
-     "name": "CH8",
-image:"https://i.imgur.com/RSQLFiU.png",
-     "url": "https://ctrl.laotv.la/live/CH8/index.m3u8",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-     "referer": "https://ufabetcompany.net/"
-    },
+
 
    ]
   }
