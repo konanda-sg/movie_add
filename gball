@@ -20,7 +20,7 @@
 "name": "Premier HD 1",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
 "url" : 	"https://media.wacthstream.com/dvr/600_eng1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyA0OjM0OjIwIFBNJmhhc2hfdmFsdWU9Yk5sUVZtVWU4U25UMXEzSjlwQVNwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0MDU0=",
-"info" : 	"dvr wacth.tv 480P",
+"info"		: 	"dvr wacth.tv 480P - 1M delay", 
 "referer"		: 	"https://wacth.tv/",
 "playInNatPlayer":"true"
 },
@@ -62,8 +62,8 @@
 "info": "540p ufabetcompany",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDIzIDc6NTg6MzEgQU0maGFzaF92YWx1ZT1JZ0lGTFVnMitWdGJkQ2FnZG5EbEVBPT0mdmFsaWRtaW51dGVzPTYw",
-"referer": "blob:https://ufabetcompany.net/5079d908-b9c7-4134-93ca-66bab2002ff6"
+"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
+"referer": "https://ufabetcompany.net/"
  },
 {
 "name": "Premier HD 1",
@@ -130,14 +130,7 @@
 "url": "https://cdn1.aws-live-streaming.com/ais/tpf1_480/playlist.m3u8",
 "referer": "https://www.aisplay24hd.com/"
   },
-{
-"name": "Premier HD 1",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "540p ufabetcompany nosign",
-"referer": "https://ufabetcompany.net/",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-1/playlist.m3u8"
-},
+
 
          ]
       },
@@ -156,7 +149,7 @@
 "name": "Premier HD 2",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
 "url" : 	"https://media.wacthstream.com/dvr/602_eng2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyA0OjM0OjIwIFBNJmhhc2hfdmFsdWU9Yk5sUVZtVWU4U25UMXEzSjlwQVNwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0MDU0=",
-"info" : 	"dvr wacth.tv 480P",
+"info"		: 	"dvr wacth.tv 480P - 1M delay", 
 "referer"		: 	"https://wacth.tv/",
 "playInNatPlayer":"true"
  },
@@ -198,8 +191,8 @@
 "info": "540p ufabetcompany",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIzIDE6NDg6MDEgQU0maGFzaF92YWx1ZT1mNzM1Rk9mOFRHVmZqQm5ROGFkMWxBPT0mdmFsaWRtaW51dGVzPTYw",
-"referer": "blob:https://ufabetcompany.net/44d378c8-d569-4e88-a76a-115864920810"
+"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
+"referer": "https://ufabetcompany.net/"
  },
 {
 "name": "Premier HD 2",
@@ -258,14 +251,7 @@
 "info": "480p ballnaja",
      "referer": "https://www.ballnaja.com/television/"
     },
-{
-"name": "Premier HD 2",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "540p ufabetcompany nosign",
-"referer": "https://ufabetcompany.net/",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-2/playlist.m3u8"
-},
+
 
          ]
       },
@@ -308,7 +294,7 @@
 "name": "Premier HD 3",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
 "url" : 	"https://media.wacthstream.com/dvr/603_eng3/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyA0OjM0OjIwIFBNJmhhc2hfdmFsdWU9Yk5sUVZtVWU4U25UMXEzSjlwQVNwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0MDU0=",
-"info"		: 	"dvr wacth.tv 480P", 
+"info"		: 	"dvr wacth.tv 480P - 1M delay", 
 "referer"		: 	"https://wacth.tv/",
 "playInNatPlayer":"true"
  },
@@ -326,8 +312,8 @@
 "info": "540p ufabetcompany",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIzIDE6NDg6MDEgQU0maGFzaF92YWx1ZT1mNzM1Rk9mOFRHVmZqQm5ROGFkMWxBPT0mdmFsaWRtaW51dGVzPTYw",
-"referer": "blob:https://ufabetcompany.net/e5f4807f-07f3-44be-8346-e784a0cd14fe"
+"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
+"referer": "https://ufabetcompany.net/"
  },
 {
 "name": "Premier HD 3",
@@ -386,14 +372,7 @@
 "url": "https://cdn1.aws-live-streaming.com/ais/tpf3/playlist.m3u8",
 "referer": "https://www.aisplay24hd.com/"
   },
-{
-"name": "Premier HD 3",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "540p ufabetcompany nosign",
-"referer": "https://ufabetcompany.net/",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-3/playlist.m3u8"
-},
+
          ]
       },
       { 
@@ -435,7 +414,7 @@
 "name": "Premier HD 4",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
 "url" : 	"https://media.wacthstream.com/dvr/604_eng4/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyA0OjM0OjIwIFBNJmhhc2hfdmFsdWU9Yk5sUVZtVWU4U25UMXEzSjlwQVNwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0MDU0=",
-"info"		: 	"dvr wacth.tv 480P", 
+"info"		: 	"dvr wacth.tv 480P - 1M delay", 
 "referer"		: 	"https://wacth.tv/",
 "playInNatPlayer":"true"
  },
@@ -453,8 +432,8 @@
 "info": "540p ufabetcompany",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIzIDE6NDg6MDEgQU0maGFzaF92YWx1ZT1mNzM1Rk9mOFRHVmZqQm5ROGFkMWxBPT0mdmFsaWRtaW51dGVzPTYw",
-"referer": "blob:https://ufabetcompany.net/f2f7b4fb-539e-49d0-aa5e-3a1909cbb29c"
+"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
+"referer": "https://ufabetcompany.net/"
  },
 {
 "name": "Premier HD 4",
@@ -513,14 +492,7 @@
 "url": "https://cdn1.aws-live-streaming.com/ais/tpf4/playlist.m3u8",
 "referer": "https://www.aisplay24hd.com/"
   },
-{
-"name": "Premier HD 4",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "540p ufabetcompany nosign",
-"referer": "https://ufabetcompany.net/",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-4/playlist.m3u8"
-},
+
 
          ]
       },
@@ -563,7 +535,7 @@
 "name": "Premier HD 5",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
 "url" : 	"https://media.wacthstream.com/dvr/605_eng5/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyA0OjM0OjIwIFBNJmhhc2hfdmFsdWU9Yk5sUVZtVWU4U25UMXEzSjlwQVNwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0MDU0=",
-"info"		: 	"dvr wacth.tv 480P", 
+"info"		: 	"dvr wacth.tv 480P - 1M delay", 
 "referer"		: 	"https://wacth.tv/",
 "playInNatPlayer":"true"
  },
@@ -582,8 +554,8 @@
 "info": "540p ufabetcompany",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIzIDE6NDg6MDEgQU0maGFzaF92YWx1ZT1mNzM1Rk9mOFRHVmZqQm5ROGFkMWxBPT0mdmFsaWRtaW51dGVzPTYw",
-"referer": "blob:https://ufabetcompany.net/46551e79-fbf0-4c95-9e7f-aa9afdfb8d28"
+"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
+"referer": "https://ufabetcompany.net/"
  },
 {
 "name": "Premier HD 5",
@@ -642,14 +614,7 @@
 "url": "https://cdn1.aws-live-streaming.com/ais/tpf5/playlist.m3u8",
 "referer": "https://www.aisplay24hd.com/"
   },
-{
-"name": "Premier HD 5",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "540p ufabetcompany nosign",
-"referer": "https://ufabetcompany.net/",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-5/playlist.m3u8"
-},
+
 
 
 
@@ -674,7 +639,7 @@
 "url" :	"https://media.wacthstream.com/dvr/607_BEIN1/playlist_dvr.m3u8?wmsAuthSign==c2VydmVyX3RpbWU9MTAvMjkvMjAyMyA0OjM0OjIwIFBNJmhhc2hfdmFsdWU9Yk5sUVZtVWU4U25UMXEzSjlwQVNwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0MDU0=",
 "referer"		:	"https://wacth.tv",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
-"info"		: 	"dvr wacth.tv 480P", 
+"info"		: 	"dvr wacth.tv 480P - 1M delay", 
 "playInNatPlayer":"true"
  },
 {
@@ -699,8 +664,8 @@
 "info": "540p ufabetcompany",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/bein-sport-1-th/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIzIDE6NDg6MDEgQU0maGFzaF92YWx1ZT1mNzM1Rk9mOFRHVmZqQm5ROGFkMWxBPT0mdmFsaWRtaW51dGVzPTYw",
-"referer": "blob:https://ufabetcompany.net/13834951-8f0e-40ee-8c57-29f2b7244e1b"
+"url": "https://live.vip-streaming.com/ufabetcompany-live/bein-sport-1-th/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
+"referer": "https://ufabetcompany.net/"
  },
 {
 "name": "beIN SPORT 1",
@@ -769,14 +734,7 @@
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
 },
-{
-"name": "beIN SPORT 1",
-"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "540p ufabetcompany nosign",
-"referer": "https://ufabetcompany.net/",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/bein-sport-1-th/playlist.m3u8"
-},
+
 
 
          ]
@@ -867,7 +825,7 @@
 "url" :	"https://media.wacthstream.com/dvr/608_BEIN2/playlist_dvr.m3u8?wmsAuthSign==c2VydmVyX3RpbWU9MTAvMjkvMjAyMyA0OjM0OjIwIFBNJmhhc2hfdmFsdWU9Yk5sUVZtVWU4U25UMXEzSjlwQVNwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0MDU0=",
 "referer"		:	"https://wacth.tv",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
-"info"		: 	"dvr wacth.tv 480P", 
+"info"		: 	"dvr wacth.tv 480P - 1M delay", 
 "playInNatPlayer":"true"
  },
 {
@@ -893,8 +851,8 @@
 "info": "540p ufabetcompany",
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/bein-sport-3-th/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIzIDE6NDg6MDEgQU0maGFzaF92YWx1ZT1mNzM1Rk9mOFRHVmZqQm5ROGFkMWxBPT0mdmFsaWRtaW51dGVzPTYw",
-"referer": "blob:https://ufabetcompany.net/73b425bd-44e6-4972-8b59-a15e6ba84a5d"
+"url": "https://live.vip-streaming.com/ufabetcompany-live/bein-sport-3-th/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
+"referer": "https://ufabetcompany.net/"
  },
 {
 "name": "beIN SPORT 3",
@@ -939,14 +897,7 @@
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
 },
-{
-"name": "beIN SPORT 3",
-"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "540p ufabetcompany nosign",
-"referer": "https://ufabetcompany.net/",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/bein-sport-3-th/playlist.m3u8"
-},
+
          ]
       },
    ]
