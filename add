@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/The-Nun-2-2023.jpg" ,The Nun 2 (2023) เดอะ นัน 2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/590b09ba-d998-52a6-a197-896b5b89770a.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Blue-Beetle-2023.jpg" , บลู บีเทิล
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://hlsp2p.com/view/9a2ace38-4e55-56de-bcf4-85879d7029c8.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/10/Long-Live-Love-2023-1.jpg" ,M3GAN (2022) เมแกน
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fw4free.com/view.php?id=154546
+https://m1free.inwstream.com:1936/movie3/M3GAN_2022/M3GAN_2022_th_1080p.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/10/Long-Live-Love-2023-1.jpg" ,LONG LIVE LOVE! (2023) ลอง ลีฟ เลิฟว์
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.com/
@@ -129,11 +144,6 @@ https://m1free.inwstream.com:1936/movie3/Nowhere_2023/Nowhere_2023_th_1080.mp4/p
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/view.php?id=182230
 https://m1free.inwstream.com:1936/movie3/Reptile_2023/Reptile_2023_th_1080.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/The-Nun-2-2023.jpg" ,The Nun 2 (2023) เดอะ นัน 2 Zoom
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://streamhls.com/view/5986bd0e-fca0-52d6-9928-bd658f72c97d.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/09/The-Nun-2018.jpg" ,The Nun (2018) เดอะ นัน
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -355,11 +365,6 @@ https://hlsp2p.com/view/4fb5b937-c2b3-585c-9ac8-15f72b7755c2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lucamovie-hd.com/
 https://m1free.inwstream.com:1936/movie3/Guy_Ritchie_s_The_Covenant_2023/Guy_Ritchie_s_The_Covenant_2023_th_1080.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Blue-Beetle-2023.jpg" , บลู บีเทิล
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://hlsp2p.com/view/a3d41eff-7523-57af-a011-c84fcd6fbb99.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/07/thumb_2594.jpg" , แอนนาเบลล์ ตุ๊กตาผีกลับบ้าน
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
