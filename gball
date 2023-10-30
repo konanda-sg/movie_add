@@ -58,10 +58,30 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Premier HD 1",
+"name": "Premier HD 11",
 "info": "540p ufabetcompany",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
+"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjM3OjE4IEFNJmhhc2hfdmFsdWU9RlZTNTh4K2JleHBCem51MnMxMURZdz09JnZhbGlkbWludXRlcz02MA==",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true",
+"referer": "https://ufabetcompany.net/"
+ },
+
+{
+"name": "Premier HD 12",
+"info": "540p ufabetcompany",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/true-premier-hd-1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjM3OjE4IEFNJmhhc2hfdmFsdWU9RlZTNTh4K2JleHBCem51MnMxMURZdz09JnZhbGlkbWludXRlcz02MA==",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true",
+"referer": "https://ufabetcompany.net/"
+ },
+
+{
+"name": "Premier HD 13",
+"info": "540p ufabetcompany",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"url": "https://streaming-3.vip-streaming.com/ufabetcompany-live/true-premier-hd-1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjM3OjE4IEFNJmhhc2hfdmFsdWU9RlZTNTh4K2JleHBCem51MnMxMURZdz09JnZhbGlkbWludXRlcz02MA==",
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true",
 "referer": "https://ufabetcompany.net/"
