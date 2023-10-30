@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/10/It-Lives-Inside-2023.jpg" ,It Lives Inside (2023) ขังปีศาจคลั่ง
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://streamhls.com/view/71956443-fa70-514d-8024-721c506b6ffb.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Exorcist-Believer-2023.jpg" ,The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://streamhls.com/view/278e9dc1-4e8b-58c0-b0ff-6729bacfc5da.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/The-Nun-2-2023.jpg" ,The Nun 2 (2023) เดอะ นัน 2
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
