@@ -58,35 +58,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Premier HD 11",
-"info": "540p ufabetcompany",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjM3OjE4IEFNJmhhc2hfdmFsdWU9RlZTNTh4K2JleHBCem51MnMxMURZdz09JnZhbGlkbWludXRlcz02MA==",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true",
-"referer": "https://ufabetcompany.net/"
- },
-
-{
-"name": "Premier HD 12",
-"info": "540p ufabetcompany",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"url": "https://live-streaming-3.vip-streaming.com/ufabetcompany-live/true-premier-hd-1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjM3OjE4IEFNJmhhc2hfdmFsdWU9RlZTNTh4K2JleHBCem51MnMxMURZdz09JnZhbGlkbWludXRlcz02MA==",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true",
-"referer": "https://ufabetcompany.net/"
- },
-
-{
-"name": "Premier HD 13",
-"info": "540p ufabetcompany",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"url": "https://streaming-3.vip-streaming.com/ufabetcompany-live/true-premier-hd-1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjM3OjE4IEFNJmhhc2hfdmFsdWU9RlZTNTh4K2JleHBCem51MnMxMURZdz09JnZhbGlkbWludXRlcz02MA==",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true",
-"referer": "https://ufabetcompany.net/"
- },
-{
 "name": "Premier HD 1",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
@@ -209,15 +180,6 @@
 },
 {
 "name": "Premier HD 2",
-"info": "540p ufabetcompany",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true",
-"referer": "https://ufabetcompany.net/"
- },
-{
-"name": "Premier HD 2",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info": "540p warpfootball",
@@ -329,15 +291,6 @@
 "userAgent": "VLC/3.0.9 LibVLC/3.0.9",
 "playInNatPlayer": "true"
 },
-{
-"name": "Premier HD 3",
-"info": "540p ufabetcompany",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true",
-"referer": "https://ufabetcompany.net/"
- },
 {
 "name": "Premier HD 3",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
@@ -452,15 +405,6 @@
 },
 {
 "name": "Premier HD 4",
-"info": "540p ufabetcompany",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true",
-"referer": "https://ufabetcompany.net/"
- },
-{
-"name": "Premier HD 4",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info": "540p warpfootball",
@@ -572,16 +516,6 @@
 "userAgent": "VLC/3.0.9 LibVLC/3.0.9",
 "playInNatPlayer": "true"
 },
-
-{
-"name": "Premier HD 5",
-"info": "540p ufabetcompany",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true",
-"referer": "https://ufabetcompany.net/"
- },
 {
 "name": "Premier HD 5",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
@@ -683,15 +617,6 @@
 "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
 "url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
 "referer": "https://www.youdooball.com/e62c700b-5f47-4ab0-902d-a594c98fe9c9"
- },
-{
-"name": "beIN SPORT 1",
-"info": "540p ufabetcompany",
-"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/bein-sport-1-th/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true",
-"referer": "https://ufabetcompany.net/"
  },
 {
 "name": "beIN SPORT 1",
@@ -871,15 +796,6 @@
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
 "referer": "https://www.youdooball.com/40a63e13-dc19-4299-addd-c15add62a73d"
- },
-{
-"name": "beIN SPORT 3",
-"info": "540p ufabetcompany",
-"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
-"url": "https://live.vip-streaming.com/ufabetcompany-live/bein-sport-3-th/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMyA2OjEyOjM3IEFNJmhhc2hfdmFsdWU9bnU0a05abkszMVBPaW9wYUpDa0FvQT09JnZhbGlkbWludXRlcz02MA=",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true",
-"referer": "https://ufabetcompany.net/"
  },
 {
 "name": "beIN SPORT 3",
