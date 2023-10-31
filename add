@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023.jpg" ,A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://streamhls.com/view/6c5dcca5-564c-5f1b-916a-b06babfecb46.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/10/Pain-Threshold-2019.jpg" ,Pain Threshold (2019) ทริประทึก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
@@ -190,11 +195,6 @@ https://hlsp2p.com/view/1bfcaeee-92ed-5ce4-ae54-c42fe2f8085b.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
 https://hlsp2p.com/view/111a8041-42eb-5045-9a88-41e09441d963.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023.jpg" ,A HAUNTING IN VENICE (2023) ฆาตกรรมหลอนแห่งนครเวนิส
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://hlsp2p.com/view/eaafcd25-d6ef-5e2b-b535-72b1cc46adb1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023.jpg" ,GANGNAM ZOMBIE (2023) คังนัมซอมบี้
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
