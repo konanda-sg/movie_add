@@ -4,7 +4,12 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
 "groups": [
 
-
+{
+"name"              :     "ผ่าพิภพไททัน ไฟนอลซีซั่น บทสุดท้าย",
+"image"             :     "https://anime-indy.com/wp-content/uploads/2023/11/final.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/titan",
+"import": false
+},
 {
 "name"              :     "หนึ่งกระบี่พิชิตปฐพี",
 "image"             :     "https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png",
