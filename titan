@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="hhttps://anime-indy.com/wp-content/uploads/2023/11/final.jpg", 1
+#EXTINF:-1 tvg-logo="https://anime-indy.com/wp-content/uploads/2023/11/final.jpg", 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://indy.team-indy.net/
 https://indy.team-indy.tech:8443/vid/UYQWArAur0/video.mp4/playlist.m3u8
