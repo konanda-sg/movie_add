@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/03/Luther-The-Fallen-Sun-2023.jpg" ,Luther The Fallen Sun (2023) ลูเธอร์ อาทิตย์ตกดิน
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://streamhls.com/view/ec84e756-ba87-5179-87d1-2e4e8a59a89f.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/Sly-202.jpg" ,Sly: ซิลเวสเตอร์ สตอลโลน (2023)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
