@@ -9,21 +9,15 @@
 	"name": "Premier HD 1",
 	"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
          "stations": [ 
-        {
-"name": "Premier HD 1",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"url" : 	"https://wacthstream.com/stream_live/600_eng1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyAzOjQ4OjA5IFBNJmhhc2hfdmFsdWU9OUhGajloaFA3WGlMWVVxWDZHVmtPZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzUwNjA2=",
-"info" : 	"wacth.tv 480P",
-"referer"		: 	"https://wacth.tv/"
-},
 {
 "name": "Premier HD 1",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"url" : 	"https://media.wacthstream.com/dvr/600_eng1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyA0OjM0OjIwIFBNJmhhc2hfdmFsdWU9Yk5sUVZtVWU4U25UMXEzSjlwQVNwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0MDU0=",
-"info"		: 	"dvr wacth.tv 480P - 1M delay", 
-"referer"		: 	"https://wacth.tv/",
-"playInNatPlayer":"true"
-},
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "1080p laotv",
+"url": "https://ctrl.laotv.la/live/TSport1/index.m3u8",
+"referer": "https://laotv.la/"
+ },
+ 
 {
 "name": "Premier HD 1",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
@@ -98,14 +92,7 @@
 "url": "https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
 "referer": "https://www.moviehdthai.com/"
  },
-{
-"name": "Premier HD 1",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-"info": "1080p laotv",
-"url": "https://ctrl.laotv.la/live/TSport1/index.m3u8",
-"referer": "https://laotv.la/"
- },
+
 {
 "name": "Premier HD 1",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
@@ -130,7 +117,21 @@
 "referer": "https://ufacompany1.com/",
 "url": "https://live.vip-streaming.com:443/ufabetcompany-live/true-premier-hd-1/playlist.m3u8"
  },
-
+       {
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"url" : 	"https://wacthstream.com/stream_live/600_eng1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyAzOjQ4OjA5IFBNJmhhc2hfdmFsdWU9OUhGajloaFA3WGlMWVVxWDZHVmtPZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzUwNjA2=",
+"info" : 	"wacth.tv 480P",
+"referer"		: 	"https://wacth.tv/"
+},
+{
+"name": "Premier HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+"url" : 	"https://media.wacthstream.com/dvr/600_eng1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyA0OjM0OjIwIFBNJmhhc2hfdmFsdWU9Yk5sUVZtVWU4U25UMXEzSjlwQVNwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0MDU0=",
+"info"		: 	"dvr wacth.tv 480P - 1M delay", 
+"referer"		: 	"https://wacth.tv/",
+"playInNatPlayer":"true"
+},
          ]
       },
       { 
@@ -140,18 +141,12 @@
 {
 "name": "Premier HD 2",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
-"url" : 	"https://wacthstream.com/stream_live/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyAzOjQ4OjA5IFBNJmhhc2hfdmFsdWU9OUhGajloaFA3WGlMWVVxWDZHVmtPZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzUwNjA2=",
-"info" : 	"wacth.tv 480P",
-"referer"		: 	"https://wacth.tv/"
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "1080p laotv",
+"url": "https://ctrl.laotv.la/live/TSport2/index.m3u8",
+"referer": "https://laotv.la/"
  },
-{
-"name": "Premier HD 2",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
-"url" : 	"https://media.wacthstream.com/dvr/602_eng2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyA0OjM0OjIwIFBNJmhhc2hfdmFsdWU9Yk5sUVZtVWU4U25UMXEzSjlwQVNwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0MDU0=",
-"info"		: 	"dvr wacth.tv 480P - 1M delay", 
-"referer"		: 	"https://wacth.tv/",
-"playInNatPlayer":"true"
- },
+
 {
 "name": "Premier HD 2",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
@@ -226,14 +221,7 @@
 "url": "https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8",
 "referer": "https://www.moviehdthai.com/"
  },
-{
-"name": "Premier HD 2",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-"info": "1080p laotv",
-"url": "https://ctrl.laotv.la/live/TSport2/index.m3u8",
-"referer": "https://laotv.la/"
- },
+
 {
 "name": "Premier HD 2",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
@@ -250,7 +238,21 @@
 "referer": "https://ufacompany1.com/",
 "url": "https://live.vip-streaming.com:443/ufabetcompany-live/true-premier-hd-2/playlist.m3u8"
  },
-
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"url" : 	"https://wacthstream.com/stream_live/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyAzOjQ4OjA5IFBNJmhhc2hfdmFsdWU9OUhGajloaFA3WGlMWVVxWDZHVmtPZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzUwNjA2=",
+"info" : 	"wacth.tv 480P",
+"referer"		: 	"https://wacth.tv/"
+ },
+{
+"name": "Premier HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+"url" : 	"https://media.wacthstream.com/dvr/602_eng2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMyA0OjM0OjIwIFBNJmhhc2hfdmFsdWU9Yk5sUVZtVWU4U25UMXEzSjlwQVNwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0MDU0=",
+"info"		: 	"dvr wacth.tv 480P - 1M delay", 
+"referer"		: 	"https://wacth.tv/",
+"playInNatPlayer":"true"
+ },
          ]
       },
       { 
