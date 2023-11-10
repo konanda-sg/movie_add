@@ -1,5 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231110014024kLlzMG35ntY8vbUWkJwH5TPFQ5p.jpg" ,ปล้นทะลุไมล์ The X-Treme Riders (2023)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://m1free.inwstream.com:1936/movie3/The_X_Treme_Riders_2023/The_X_Treme_Riders_2023_th_1080.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/07/Oppenheimer-2023.jpg" ,Oppenheimer (2023) ออพเพนไฮเมอร์
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://m1free.inwstream.com:1936/movie3/Oppenheimer_2023/Oppenheimer_2023_thr_z1.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/11/OK-Baytong.jpg" , OK BAYTONG (2003) โอเค เบตง
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://hlsp2p.com/view/87335e74-5345-55f4-8349-2314b76ea992.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/The-Killer-2023.jpg" ,The Killer (2023) นักฆ่า
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://streamhls.com/view/0b632dcc-90a3-53dc-ae2f-aeb6e7aaf3b9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/05/Hypnotic-2023.jpg" ,Hypnotic (2023) จิตบงการปล้น
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://streamhls.com/view/b72381cc-7357-5731-8a25-ea143a881a63.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/10/Five-Nights-at-Freddys-2023.jpg" ,Five Nights at Freddy’s (2023) 5 คืนสยองที่ร้านเฟรดดี้
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
