@@ -1,5 +1,21 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/Perfect-Proposal-2015.jpg" ,Perfect Proposal (Eun-mil-han yu-hok) (2015)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://streamhls.com/view/b16d2893-daa3-5d3c-a029-6891c451c7a9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2022/09/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" ,The Infernal Machine (2022) เดอะอินเฟอร์นัลแมชชีน
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://streamhls.com/view/48c61f7c-1b12-5943-bb2b-8085bd901896.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/10/The-Creator-2023.jpg" ,THE CREATOR (2023) เดอะ ครีเอเตอร์
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://streamhls.com/view/4d0f8b47-5e26-503b-b6f3-273a7f18be70.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/11/The-Marvels-2023.jpg" ,THE MARVELS (2023) เดอะ มาร์เวลส์ (Zoom)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
@@ -226,10 +242,7 @@ https://streamhls.com/view/c1c4c417-3272-5f6f-acfa-37089eda102f.m3u8
 #EXTVLCOPT:http-referrer=https://fw4free.com/view.php?id=182117
 https://m1free.inwstream.com:1936/movie3/Leaving_Afghanistan_2019/Leaving_Afghanistan_2019_st_1080_T.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/10/The-Creator-2023.jpg" ,THE CREATOR (2023) เดอะ ครีเอเตอร์ Zoom Subthai
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.stream1688.com/
-https://streamhls.com/view/370b2a68-4263-53ac-9583-e20f23400a7c.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/10/Saw-X-2023.jpg" ,SAW X (2023) ชำแหละแค้น…เกมตัดตาย Zoom Subthai
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
