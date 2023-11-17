@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://files.akuma-player.xyz/view/701ca1f8-d615-5c38-9786-e8a1f5c7e402.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://files.akuma-player.xyz/view/aef187bb-df34-5884-a79f-a6ed052dd264.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://files.akuma-player.xyz/view/571ade1e-5896-53e1-9e18-c032790b127b.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://files.akuma-player.xyz/view/6728dca0-0305-51ac-baa9-7b72f475986f.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://files.akuma-player.xyz/view/58c0221f-ce0d-5582-96e5-fd27a0f07219.m3u8
