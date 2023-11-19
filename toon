@@ -12,12 +12,6 @@
 "import": false
 },
 {
-"name"              :     "ผ่าพิภพไททัน ไฟนอลซีซั่น บทสุดท้าย",
-"image"             :     "https://anime-indy.com/wp-content/uploads/2023/11/final.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/titan",
-"import": false
-},
-{
 "name"              :     "หนึ่งกระบี่พิชิตปฐพี",
 "image"             :     "https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/หนึ่งกระบี่พิชิตปฐพี",
@@ -45,31 +39,6 @@
 "name"              :     "ฝืนลิขิตฟ้าข้าขอเป็นเป็นเซียน",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ฝืนลิขิตฟ้าข้าขอเป็นเป็นเซียน",
-"import": false
-},
-
-{
-"name"              :     "Kengan Ashura 2nd Season กำปั้นอสูร โทคิตะ ภาค 2",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-3.jpg?w=495&ssl=1",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/kengan2",
-"import": false
-},
-{
-"name"              :     "Baki 2",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/final-4.jpg?w=495&ssl=1",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ba2",
-"import": false
-},
-{
-"name"              :     "คัมภีร์วิถีเซียน 1-2-3",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/Fanren-Xiu-Xian-Chuan.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT",
-"import": false
-},
-{
-"name"              :     "ชีวิตประจำวันของราชาแห่งเซียน 1-3",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/02/xian-wang-de-ri-chang-sheng-huo.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/xian",
 "import": false
 },
 
@@ -144,12 +113,7 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/trans5",
 "import": false
 },
-{
-"name"              :     "บลีช เทพมรณะ สงครามเลือดพันปี",
-"image"             :     "https://anime-indy.com/wp-content/uploads/2023/09/final-5.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/bleachblood",
-"import": false
-},
+
 
 ]
 }
