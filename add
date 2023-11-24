@@ -1,10 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/New-Gods-Yang-Jian-2023.jpg" ,New Gods: Yang Jian (2022) หยางเจี่ยน เทพสามตา มหาศึกผนึกเขาบงกช
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://streamhls.com/view/96310f2a-1659-5421-a796-1c0668014d94.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem-2023.jpg" ,TEENAGE MUTANT NINJA TURTLES MUTANT MAYHEM (2023) เต่านินจา โกลาหลกลายพันธุ์
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
+https://streamhls.com/view/53b58ad3-b2c2-5912-914b-94096a950686.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/11/Leo-2023.jpg" ,LEO (2023) ลีโอ
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
-https://streamhls.com/view/33e708fa-0b2f-5bbd-bcef-b0caff6f41aa.m3u8
+https://m1free.inwstream.com:1936/movie3/Leo_2023/Leo_2023_th_1080.mp4/chunk.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202311181243276qTqdxSsiHcHqdB8Ob4Im24f6Rl.jpg" ,ปืนใหญ่จอมสลัด Queens of Langkasuka (2008)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -295,10 +304,7 @@ https://hlsp2p.com/view/4fbc149a-1f93-52c8-b244-a93674164073.m3u8
 https://hlsp2p.com/view/1bfcaeee-92ed-5ce4-ae54-c42fe2f8085b.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem-2023.jpg" ,TEENAGE MUTANT NINJA TURTLES MUTANT MAYHEM (2023) เต่านินจา โกลาหลกลายพันธุ์
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
-https://hlsp2p.com/view/111a8041-42eb-5045-9a88-41e09441d963.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023.jpg" ,GANGNAM ZOMBIE (2023) คังนัมซอมบี้
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
