@@ -4,7 +4,12 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
 "groups": [
 
-
+{
+"name"              :     "เทพเจ้านักรบอสุรา",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/137693l-e1695727422109.jpg?w=338&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/เทพเจ้านักรบอสุรา",
+"import": false
+},
 {
 "name"              :     "Dr. Stone: New World (Season 3) Part 2 ด็อกเตอร์สโตน ภาค3 พาร์ท 2",
 "image"             :     "https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",
