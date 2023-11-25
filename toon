@@ -5,6 +5,12 @@
 "groups": [
 
 {
+"name"              :     "มหายุทธหยุดพิภพ ภาค 4",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/d56e1a4ba6372e09742543b0fb19826b.jpg?w=540&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/มหายุทธ",
+"import": false
+},
+{
 "name"              :     "เทพเจ้านักรบอสุรา",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/137693l-e1695727422109.jpg?w=338&ssl=1",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/เทพเจ้านักรบอสุรา",
@@ -118,7 +124,12 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/trans5",
 "import": false
 },
-
+{
+"name"              :     "ผ่าพิภพไททัน ไฟนอลซีซั่น บทสุดท้าย พากย์ไทย",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final.jpg?w=495&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/titan",
+"import": false
+},
 
 ]
 }
