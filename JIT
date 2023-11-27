@@ -522,9 +522,15 @@
    ]
 },
 {
-"name"              :     "A Record of a Mortal’s Journey to Immortality 3",
+"name"              :     "คัมภีร์วิถีเซียน สายลมจากแดนใต้ ภาค ทะเลดาราปั่นป่วน",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/Fanren-Xiu-Xian-Chuan.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT3",
+"import": false
+},
+{
+"name"              :     "คัมภีร์วิถีเซียน ทะเลดาราโหมซัด",
+"image"             :     "https://www.anime-masters.com/upload/fanren-xiu-xian-season-3.jpg?v=44",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT3_sea",
 "import": false
 }
 ]
