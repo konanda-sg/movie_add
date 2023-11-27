@@ -4,7 +4,7 @@
    "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
    "groups": [ 
 {
-   "name": "A Record of a Mortal’s Journey to Immortality 1",
+   "name": "คัมภีร์วิถีเซียน 1",
    "info": "A Record of a Mortal’s Journey to Immortality คัมภีร์วิถีเซียน ตอนที่ 1-21 ซับไทย",
    "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/79aa290e7ba4aa1f30836bb6deabe29e.jpg",
    "stations": [
@@ -158,7 +158,7 @@
    ]
 },
 {
-   "name": "A Record of a Mortal’s Journey to Immortality 2",
+   "name": "คัมภีร์วิถีเซียน 2",
    "info": "A Record of a Mortal’s Journey to Immortality คัมภีร์วิถีเซียน ภาค 2 ตอนที่ 1-51 ซับไทย",
    "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/a-record-of-a-mortals-journey-to-immortality-ss-2.jpg",
    "stations": [
@@ -522,15 +522,15 @@
    ]
 },
 {
-"name"              :     "คัมภีร์วิถีเซียน สายลมจากแดนใต้ ภาค ทะเลดาราปั่นป่วน",
+"name"              :     "คัมภีร์วิถีเซียน 3 ทะเลดาราปั่นป่วน 1-4 ",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/Fanren-Xiu-Xian-Chuan.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT3",
 "import": false
 },
 {
-"name"              :     "คัมภีร์วิถีเซียน ทะเลดาราโหมซัด",
+"name"              :     "คัมภีร์วิถีเซียน 3 ทะเลดาราโหมซัด",
 "image"             :     "https://www.anime-masters.com/upload/fanren-xiu-xian-season-3.jpg?v=44",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT3_sea",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT3Sea",
 "import": false
 }
 ]
