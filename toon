@@ -5,6 +5,12 @@
 "groups": [
 
 {
+"name"              :     "คัมภีร์วิถีเซียน ทะเลดาราโหมซัด",
+"image"             :     "https://www.anime-masters.com/upload/fanren-xiu-xian-season-3.jpg?v=44",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/JIT3Sea",
+"import": false
+},
+{
 "name"              :     "มหายุทธหยุดพิภพ ภาค 4",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/d56e1a4ba6372e09742543b0fb19826b.jpg?w=540&ssl=1",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/มหายุทธ",
