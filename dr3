@@ -1,7 +1,13 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",20(9) sub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/7R6XhZC7uT/video.mp4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",19(8) sub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://indy.team-indy.tech:8443/vid/mWSQzPz6bJ/video.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",18(7) sub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
