@@ -5,13 +5,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 https://indy.team-indy.tech:8443/vid/7R6XhZC7uT/video.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",19(8) sub
+#EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",19(8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.tech:8443/vid/mWSQzPz6bJ/video.mp4/playlist.m3u8
+https://files.akuma-player.xyz/view/c02582cc-0ab5-5edf-8698-84de39e2ca63.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",18(7) sub
+#EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",18(7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.tech:8443/vid/mWSQzPz6bJ/video.mp4/chunk.m3u8
+https://files.akuma-player.xyz/view/caf7af1d-7af0-5e8c-a997-048360f1ff37.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",17(6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
