@@ -1,7 +1,9 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-3-1.jpg?w=495&ssl=1" , ตอนที่ 27
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sub-thai.com/stream//player/520024.php
+https://sub-thai.com/stream//playlist/Da%20Zhu%20Zai%20Nian%20Fan/Da%20Zhu%20Zai%20Nian%20Fan%2027-720.m4v
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA2ZGExZGItNDY5Mi00ZTJlLTk0YzMtN2U4MTk0NmRhYTNiXkEyXkFqcGdeQXVyNjMxMTE5NTY@._V1_.jpg" , ตอนที่ 26
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
