@@ -85,14 +85,7 @@
 "url": "https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
 "referer": "https://www.moviehdthai.com/"
  },
-  {
-"name": "Premier HD 1",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
-"info": "480p aisplay24hd ดูได้แค่วันเวลาที่มีถ่ายทอดช่องนี้",
-"url": "https://cdn1.aws-live-streaming.com/ais/tpf1_480/chunks.m3u8",
-"referer": "https://www.aisplay24hd.com/"
-  },
+  
 {
 "name": "Premier HD 1",
 "info": "540p ufabetcompany",
