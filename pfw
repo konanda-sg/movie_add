@@ -192,17 +192,17 @@ https://indy.team-indy.club:8443/vid/q30Zqm0plX/video.mp4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 https://indy.team-indy.club:8443/vid/3G099OvTB4/video.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",98
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-1.jpg?w=495&ssl=1",98
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/N8gqx2Pa2T/video.mp4/playlist.m3u8
+https://indy.team-indy.tech:8443/vid/duo14jDIiD/video.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/1476/124197.jpg",97
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-1.jpg?w=495&ssl=1",97
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.club:8443/vid/W4jebTHKrF/video.mp4/playlist.m3u8
-
-
-
-
+https://indy.team-indy.tech:8443/vid/pCsVbSnJSq/video.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/final-1.jpg?w=495&ssl=1",96
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
