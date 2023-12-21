@@ -4,6 +4,13 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
 "groups": [
 
+
+{
+"name"              :     "ศิษย์พี่ใหญ่ของข้า 1-2",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shixiong-A-Shixiong-2nd-Season.jpg?w=270&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ศิษย์พี่ใหญ่",
+"import": false
+},
 {
 "name"              :     "คัมภีร์วิถีเซียน 1-3",
 "image"             :     "https://www.anime-masters.com/upload/fanren-xiu-xian-season-3.jpg?v=44",
@@ -16,12 +23,7 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/มหายุทธ",
 "import": false
 },
-{
-"name"              :     "เทพเจ้านักรบอสุรา - จบ",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/137693l-e1695727422109.jpg?w=338&ssl=1",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/เทพเจ้านักรบอสุรา",
-"import": false
-},
+
 {
 "name"              :     "Dr. Stone: New World (Season 3) Part 2 ด็อกเตอร์สโตน ภาค3 พาร์ท 2",
 "image"             :     "https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",
@@ -46,19 +48,13 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/พลิกฟ้าท้าสวรรค์",
 "import": false
 },
-{
-"name"              :     "นักล่าอสูรกาย - จบ",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/136462l.jpg?w=338&ssl=1",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/นักล่าอสูรกาย",
-"import": false
-},
+
 {
 "name"              :     "ฝืนลิขิตฟ้าข้าขอเป็นเป็นเซียน",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ฝืนลิขิตฟ้าข้าขอเป็นเป็นเซียน",
 "import": false
 },
-
 {
 "name"              :     "มหาเวทย์ผนึกมาร ภาค 2",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/final-2.jpg",
@@ -123,7 +119,18 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/pfw",
 "import": false
 },
-
+{
+"name"              :     "เทพเจ้านักรบอสุรา - จบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/137693l-e1695727422109.jpg?w=338&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/เทพเจ้านักรบอสุรา",
+"import": false
+},
+{
+"name"              :     "นักล่าอสูรกาย - จบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/136462l.jpg?w=338&ssl=1",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/นักล่าอสูรกาย",
+"import": false
+},
 {
 "name"              :     "การผันแปรของดวงดาว ภาค 5 - จบ",
 "image"             :     "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2022/08/xing-chen-bian-stellar-transformation-season-5-lucifer-donghua-1.webp",
