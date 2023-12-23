@@ -25,12 +25,7 @@
 },
 
 
-{
-"name"              :     "หนึ่งกระบี่พิชิตปฐพี",
-"image"             :     "https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/หนึ่งกระบี่พิชิตปฐพี",
-"import": false
-},
+
 {
 "name"              :     "มหาศึกล้างพิภพ ภาค 4",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/138218l.jpg?w=428&ssl=1",
@@ -112,6 +107,12 @@
 "name"              :     "โลกอันสมบูรณ์แบบ",
 "image"             :     "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2021/11/perfect-world-wanmei-shijie-LUCIFER-DONGHUA.webp",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/pfw",
+"import": false
+},
+{
+"name"              :     "หนึ่งกระบี่พิชิตปฐพี - จบ",
+"image"             :     "https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/หนึ่งกระบี่พิชิตปฐพี",
 "import": false
 },
 {
