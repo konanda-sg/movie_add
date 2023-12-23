@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://ok.ru/videoembed/7131682376239
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 https://ok.ru/videoembed/7113393506863
@@ -14,15 +19,15 @@ https://ok.ru/videoembed/7080429619759
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.tech:8443/vid/YJ7NkTzwt/video.mp4/playlist.m3u8
+https://ok.ru/videoembed/6364506294883
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.tech:8443/vid/wICnjxaypQ/video.mp4/playlist.m3u8
+https://ok.ru/videoembed/7343380957837
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://indy.team-indy.tech:8443/vid/8f20LR3jHA/video.mp4/playlist.m3u8
+https://ok.ru/videoembed/7321587616397
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
