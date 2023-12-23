@@ -24,12 +24,7 @@
 "import": false
 },
 
-{
-"name"              :     "Dr. Stone: New World (Season 3) Part 2 ด็อกเตอร์สโตน ภาค3 พาร์ท 2",
-"image"             :     "https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/dr3",
-"import": false
-},
+
 {
 "name"              :     "หนึ่งกระบี่พิชิตปฐพี",
 "image"             :     "https://anime-indy.com/wp-content/uploads/2023/09/Untitled3222.png",
@@ -117,6 +112,12 @@
 "name"              :     "โลกอันสมบูรณ์แบบ",
 "image"             :     "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2021/11/perfect-world-wanmei-shijie-LUCIFER-DONGHUA.webp",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/pfw",
+"import": false
+},
+{
+"name"              :     "Dr. Stone: New World (Season 3) Part 2 ด็อกเตอร์สโตน ภาค3 พาร์ท 2 - จบ",
+"image"             :     "https://img.shirokami.me/images/2023/10/30/375dcb550836eb4e6c6ce48ced07a374.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/dr3",
 "import": false
 },
 {
