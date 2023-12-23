@@ -1,14 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/12/Rebel-Moon.jpg" , Rebel Moon – Part One: A Child of Fire (2023) บุตรแห่งเปลวไฟ
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://m1free.inwstream.com:1936/movie3/Rebel_Moon_Part_One_A_Child_of_Fire_2023/Rebel_Moon_Part_One_A_Child_of_Fire_2023_th_1080.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/Suzume-2023-Poster.jpg" , Suzume (2023) การผนึกประตูของซุซุเมะ
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-https://streamhls.com/view/292439f7-b2d5-547c-b8a7-ee8480888a79.m3u8
+https://m1free.inwstream.com:1936/movie3/Suzume_2022/Suzume_2022_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/10/The-Creator-2023.jpg" ,THE CREATOR (2023) เดอะ ครีเอเตอร์
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-https://streamhls.com/view/2607b42e-e32c-53d1-8bbe-78e5ab10af0c.m3u8
+https://m1free.inwstream.com:1936/movie3/The_Creator_2023/The_Creator_2023_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/03/The-Lair-2022.jpg" , The Lair (2022) เขมือบล้างนรก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
