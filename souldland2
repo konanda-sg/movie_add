@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://anime-kimuchi.com/wp-content/uploads/2023/06/douluo-dalu-II-jueshi-tangmen.jpg" , 28
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://indy.team-indy.club:8443/
+https://indy.team-indy.tech:8443/vid/WHgBrhtvBI/video.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://anime-kimuchi.com/wp-content/uploads/2023/06/douluo-dalu-II-jueshi-tangmen.jpg" , 27
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://indy.team-indy.club:8443/
@@ -10,17 +15,17 @@ https://indy.team-indy.tech:8443/vid/92QNBKPV0z/video.mp4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://indy.team-indy.club:8443/
 https://indy.team-indy.tech:8443/vid/8AIOVC1Fm/video.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://anime-kimuchi.com/wp-content/uploads/2023/06/douluo-dalu-II-jueshi-tangmen.jpg" , 25
+#EXTINF:-1 tvg-logo="https://anime-kimuchi.com/wp-content/uploads/2023/06/douluo-dalu-II-jueshi-tangmen.jpg" , 25 Thai
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://indy.team-indy.club:8443/
-https://indy.team-indy.tech:8443/vid/zDtJ4WXopS/video.mp4/playlist.m3u8
+https://indy.team-indy.tech:8443/vid/51dAniLbtN/video.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://anime-kimuchi.com/wp-content/uploads/2023/06/douluo-dalu-II-jueshi-tangmen.jpg" , 24 Thai
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://indy.team-indy.club:8443/
 https://indy.team-indy.tech:8443/vid/CNowG8ZPlw/video.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://anime-kimuchi.com/wp-content/uploads/2023/06/douluo-dalu-II-jueshi-tangmen.jpg" , 23
+#EXTINF:-1 tvg-logo="https://anime-kimuchi.com/wp-content/uploads/2023/06/douluo-dalu-II-jueshi-tangmen.jpg" , 23 Thai
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://indy.team-indy.club:8443/
 https://indy.team-indy.tech:8443/vid/LqY3HyMj8S/video.mp4/playlist.m3u8
