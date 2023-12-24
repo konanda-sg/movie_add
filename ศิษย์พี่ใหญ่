@@ -14,6 +14,14 @@ https://indy.team-indy.tech:8443/vid/IVCplUnFtq/video.mp4/playlist.m3u8
 https://indy.team-indy.tech:8443/vid/FprLhrfAui/video.mp4/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/Shixiong-A-Shixiong-e1695125653306.jpg?fit=650%2C870&ssl=1" , 9
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/XRKpEvpiuG/video.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/Shixiong-A-Shixiong-e1695125653306.jpg?fit=650%2C870&ssl=1" , 8
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://indy.team-indy.tech:8443/vid/p2zTB54zYj/video.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/Shixiong-A-Shixiong-e1695125653306.jpg?fit=650%2C870&ssl=1" , 7
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://indy.team-indy.tech:8443/vid/qhcXIxtMTn/video.mp4/playlist.m3u8
