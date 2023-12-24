@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231223163106cwqqeqwe12.jpg" , V.1 อควาแมน กับอาณาจักรสาบสูญ (2023)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://m1free.inwstream.com:1936/movie3/Aquaman_and_the_Lost_Kingdom_2023/Aquaman_and_the_Lost_Kingdom_2023_thr_v1.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/12/Rebel-Moon.jpg" , Rebel Moon – Part One: A Child of Fire (2023) บุตรแห่งเปลวไฟ
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
