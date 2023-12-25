@@ -4,7 +4,12 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/toon",
 "groups": [
 
-
+{
+"name"              :     "คนขุดสุสาน",
+"image"             :     "https://www.anime-suba.com/img/shen-cang.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/คนขุดสุสาน",
+"import": false
+},
 {
 "name"              :     "ศิษย์พี่ใหญ่ของข้า 1-2",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/Shixiong-A-Shixiong-2nd-Season.jpg?w=270&ssl=1",
