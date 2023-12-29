@@ -28,9 +28,6 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/มหายุทธ",
 "import": false
 },
-
-
-
 {
 "name"              :     "มหาศึกล้างพิภพ ภาค 4",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/138218l.jpg?w=428&ssl=1",
@@ -43,7 +40,6 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/พลิกฟ้าท้าสวรรค์",
 "import": false
 },
-
 {
 "name"              :     "ฝืนลิขิตฟ้าข้าขอเป็นเป็นเซียน",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/xian-ni.jpg?w=480&ssl=1",
@@ -51,26 +47,17 @@
 "import": false
 },
 {
-"name"              :     "มหาเวทย์ผนึกมาร ภาค 2",
-"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/final-2.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/juju2",
-"import": false
-},
-
-{
 "name"              :     "ศึกจักรพรรดิ์สวรรค์",
 "image"             :     "https://m.media-amazon.com/images/M/MV5BNzA2ZGExZGItNDY5Mi00ZTJlLTk0YzMtN2U4MTk0NmRhYTNiXkEyXkFqcGdeQXVyNjMxMTE5NTY@._V1_.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/1underWorld",
 "import": false
 },
-
 {
 "name"              :     "ตำนานจอมยุทธ์ภูตถังซาน 2",
 "image"             :     "https://anime-kimuchi.com/wp-content/uploads/2023/06/douluo-dalu-II-jueshi-tangmen.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/souldland2",
 "import": false
 },
-
 {
 "name"              :     "ข้าก็แค่ฝึกวิชาหนึ่งแสนปี",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/05/One-Hundred-Thousand-Years-of-Qi-Refining-1.jpg?w=495&ssl=1",
@@ -84,34 +71,36 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ShroudingtheHeavens",
 "import": false
 },
-
 {
 "name"              :   "วันพีช - วาโนะคุนิ",
 "image"             :   "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/03/one-ss-20-ss.jpg",
 "url"               :   "https://raw.githubusercontent.com/tongtjc/movie_add/main/1p",
 "import": false
 },
- 
 {
 "name"              :     "สัประยุทธ์ทะลุฟ้า 5",
 "image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/08/fights-break-sphere-2023-e1695527403809.jpg?fit=700%2C933&ssl=1",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/fightBreak5",
 "import": false
 },
- 
-
 {
 "name"              :     "ผนึกเทพบัลลังก์ราชันย์",
 "image"				:	  "https://cdn.myanimelist.net/images/anime/1808/127913.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ThroneofSeal",
 "import": false
 },
- 
-
 {
 "name"              :     "โลกอันสมบูรณ์แบบ",
 "image"             :     "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2021/11/perfect-world-wanmei-shijie-LUCIFER-DONGHUA.webp",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/pfw",
+"import": false
+},
+
+
+{
+"name"              :     "มหาเวทย์ผนึกมาร ภาค 2 - จบ",
+"image"             :     "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/final-2.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/juju2",
 "import": false
 },
 {
